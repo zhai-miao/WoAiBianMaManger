@@ -1,0 +1,1024 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d439adb-611e-4540-b27c-6cc4e5203703" name="Default" comment="提交代码" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/../WoAiBianMaWeb/target/" />
+    <ignored path="$PROJECT_DIR$/../WoAiBianMaService/target/" />
+    <ignored path="$PROJECT_DIR$/../WoAiBianMaPoJo/target/" />
+    <ignored path="$PROJECT_DIR$/../WoAiBianMaMapper/target/" />
+    <ignored path="$PROJECT_DIR$/../WoAiBianMaCommon/target/" />
+    <ignored path="$PROJECT_DIR$/../WoAiBianMaConfigure/target/" />
+    <ignored path="$PROJECT_DIR$/../WoAiBianMaWebConfig/target/" />
+    <ignored path="$PROJECT_DIR$/WoAiBianMaWebSocket/target/" />
+    <ignored path="$PROJECT_DIR$/../woaibianma-websocket/target/" />
+    <ignored path="$PROJECT_DIR$/../WoAiBianMaWebSocket/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="TestController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../WoAiBianMaWeb/src/main/java/com/zbf/web/TestController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8900">
+              <caret line="356" column="29" selection-start-line="356" selection-start-column="29" selection-end-line="356" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RoleController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../WoAiBianMaWeb/src/main/java/com/zbf/web/RoleController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebSocketServer.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../WoAiBianMaWeb/src/main/java/com/zbf/zhongjian/webSocket/WebSocketServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="83">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebSocketConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../WoAiBianMaWeb/src/main/java/com/zbf/zhongjian/webSocket/WebSocketConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="mybatis-mapper" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>page</find>
+      <find>getRolelistPage</find>
+      <find>getRolePage</find>
+      <find>deleteRoleMenu</find>
+      <find>deleteRole</find>
+      <find>deleteByRoleId</find>
+      <find>getRoleListByQuery</find>
+      <find>getUserPageList</find>
+      <find>addMenu</find>
+      <find>getUserList</find>
+      <find>toAddShiTi</find>
+      <find>togetShitiList</find>
+      <find>toImportExcelData</find>
+    </findStrings>
+    <dirStrings>
+      <dir>E:\A-kaiFa\IdeaWorkSapceVUE\WoAiBianMaCommon</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../WoAiBianMaService/src/main/java/com/zbf/service/UserService.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaMapper/src/main/java/com/zbf/mapper/MenuMapper.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaService/src/main/java/com/zbf/service/MenuService.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaMapper/src/main/resources/mapper/menuMapper.xml" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaWeb/src/main/java/com/zbf/web/MenuController.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaPoJo/src/main/java/com/zbf/enmu/SexEnmu.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaWeb/src/main/java/com/zbf/test01/Test01.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaConfigure/src/main/java/com/zbf/filter/JwtFilter.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaWeb/src/main/java/com/zbf/web/LoginController.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaCommon/src/main/java/com/zbf/oauthLogin/User.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaPoJo/src/main/java/com/zbf/enmu/ShiTiLeiXinfEnmu.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaPoJo/src/main/java/com/zbf/enmu/ShiTiLeiXing.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaPoJo/src/main/java/com/zbf/enmu/CodeToName.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaCommon/src/main/java/com/zbf/core/CommonUtils.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaWeb/src/main/java/com/zbf/web/UserController.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaCommon/src/main/java/com/zbf/core/utils/FileUploadDownUtils.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaService/src/main/java/com/zbf/service/TiKuService.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaMapper/src/main/java/com/zbf/mapper/TiKuMapper.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaPoJo/src/main/java/com/zbf/enmu/ShiTiLeiXingEnmu.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaMapper/src/main/resources/mapper/tiKuMapper.xml" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaWeb/src/main/java/com/zbf/web/TiKuGuanLiController.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaPoJo/src/main/java/com/zbf/enmu/MyRedisKey.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaWebConfig/src/main/java/com/zbf/webconfig/KaoShiDaAnTiJiaoMessageSender.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaWebConfig/src/main/java/com/zbf/webconfig/KaoShiDaAnTiJiaoMessageConsumer.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaWebConfig/src/main/java/com/zbf/webconfig/RabbitMQConfig.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaWebConfig/src/main/java/com/zbf/webconfig/KaoShiDaAnTiJiaoMessageReturn.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaWebConfig/src/main/java/com/zbf/webconfig/KaoShiDaAnTiJiaoMessageConfirm.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaWebConfig/src/main/java/com/zbf/webconfig/KaoShiDaAnTiJiaoMessageConsumerConfirm.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaWebConfig/src/main/java/com/zbf/webconfig/KaoShiDaAnTiJiaoMessageSenderConfirm.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaWeb/src/main/java/com/zbf/web/RabbitMQController.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaWebConfig/src/main/java/com/zbf/rabbitmq/RabbitMQConfig.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaWebConfig/src/main/java/com/zbf/rabbitmq/KaoShiMessageListener.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaWebConfig/src/main/java/com/zbf/rabbitmq/KaoShiMessageSenderConfirm.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaWebConfig/src/main/java/com/zbf/rabbitmq/KaoShiDaAnTiJiaoMessageReturn.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaWebConfig/src/main/java/com/zbf/rabbitmq/KaoShiMessageListener2.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaWebConfig/src/main/java/com/zbf/webSocket/WebSocketConfig.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaWebConfig/src/main/java/com/zbf/webSocket/WebSocketServer.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaWeb/pom.xml" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaWebSocket/src/main/java/com/zbf/websocket/WebSocketServer.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaWebSocket/src/main/java/com/zbf/webSocket/WebSocketServer.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaWebSocket/pom.xml" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaWeb/src/main/java/com/zbf/zhongjian/rabbitmq/RabbitMQConfig.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaWeb/src/main/java/com/zbf/utils/SpringUtil.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaWeb/src/main/java/com/zbf/web/KaoShiGuanLiController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaWeb/src/main/java/com/zbf/zhongjian/test2/WebSocketConfig.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaWeb/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaWeb/src/main/java/com/zbf/zhongjian/test2/WebSocketServerTest.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaWeb/src/main/java/com/zbf/zhongjian/webSocket/WebSocketConfig.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaWeb/src/main/java/com/zbf/web/TestController.java" />
+        <option value="$PROJECT_DIR$/../WoAiBianMaWeb/src/main/java/com/zbf/zhongjian/webSocket/WebSocketServer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\A-kaiFa\Maven\repository-idea-test\lib" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Maven/apache-idea-maven/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="E:\A-kaiFa\Maven\apache-idea-maven\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="414" />
+    <option name="y" value="100" />
+    <option name="width" value="920" />
+    <option name="height" value="656" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WoAiBianMaManger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WoAiBianMaWeb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WoAiBianMaManger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WoAiBianMaWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WoAiBianMaManger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WoAiBianMaWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WoAiBianMaManger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WoAiBianMaWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WoAiBianMaManger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WoAiBianMaWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WoAiBianMaManger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WoAiBianMaWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zbf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WoAiBianMaManger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WoAiBianMaWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zbf" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WoAiBianMaManger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WoAiBianMaWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zbf" type="462c0819:PsiDirectoryNode" />
+              <item name="zhongjian" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WoAiBianMaManger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WoAiBianMaWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zbf" type="462c0819:PsiDirectoryNode" />
+              <item name="zhongjian" type="462c0819:PsiDirectoryNode" />
+              <item name="webSocket" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WoAiBianMaManger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WoAiBianMaWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="ou&#9;PSI&#9;JAVA://com.sun.corba.se.pept.transport.OutboundConnectionCache" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.27901787" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zbf.rabbitmq" />
+      <recent name="com.zbf.web" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\A-kaiFa\IdeaWorkSapceVUE\WoAiBianMaWeb\src\main\java\com\zbf\zhongjian" />
+      <recent name="E:\A-kaiFa\IdeaWorkSapceVUE\WoAiBianMaWebConfig\src\main\java\com\zbf\rabbitmq" />
+      <recent name="E:\A-kaiFa\IdeaWorkSapceVUE\WoAiBianMaWeb\src\main\resources\exceltemplate" />
+      <recent name="E:\A-kaiFa\IdeaWorkSapceVUE\WoAiBianMaCommon\src\main\java\com\zbf\core\utils" />
+      <recent name="E:\A-kaiFa\IdeaWorkSapceVUE\WoAiBianMaMapper\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.WoAiBianMaApplication">
+    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zbf.test01.Test01" />
+      <module name="WoAiBianMaWeb" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zbf.test01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="UID" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zbf.core.utils.UID" />
+      <module name="WoAiBianMaCommon" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zbf.core.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="WoAiBianMaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="WoAiBianMaWeb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zbf.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zbf.WoAiBianMaApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.UID" />
+      <item itemvalue="Application.Test01" />
+      <item itemvalue="Spring Boot.WoAiBianMaApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.WoAiBianMaApplication" />
+        <item itemvalue="Application.Test01" />
+        <item itemvalue="Application.UID" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\lenovo\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d439adb-611e-4540-b27c-6cc4e5203703" name="Default" comment="" />
+      <created>1542957742963</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542957742963</updated>
+      <workItem from="1542957744675" duration="4594000" />
+      <workItem from="1542975212268" duration="14687000" />
+      <workItem from="1543023847661" duration="4225000" />
+      <workItem from="1543068942268" duration="5348000" />
+      <workItem from="1543106147131" duration="14351000" />
+      <workItem from="1543884129103" duration="317000" />
+      <workItem from="1543884468275" duration="621000" />
+      <workItem from="1544167491623" duration="2493000" />
+      <workItem from="1548033728638" duration="7208000" />
+      <workItem from="1548208502360" duration="4709000" />
+      <workItem from="1548225414543" duration="13724000" />
+      <workItem from="1548292188744" duration="13319000" />
+      <workItem from="1548376765296" duration="17660000" />
+      <workItem from="1548466779856" duration="5985000" />
+      <workItem from="1548549302068" duration="15087000" />
+      <workItem from="1548636397420" duration="14597000" />
+      <workItem from="1548857114253" duration="2174000" />
+      <workItem from="1548903702177" duration="10437000" />
+      <workItem from="1549019149705" duration="9684000" />
+      <workItem from="1549072904565" duration="3896000" />
+      <workItem from="1549096529861" duration="2086000" />
+      <workItem from="1549262263337" duration="20496000" />
+      <workItem from="1549338691888" duration="16204000" />
+      <workItem from="1549855164933" duration="6067000" />
+      <workItem from="1549896043837" duration="675000" />
+      <workItem from="1549930331143" duration="643000" />
+      <workItem from="1549939844929" duration="17803000" />
+      <workItem from="1549984654482" duration="1432000" />
+      <workItem from="1550016582887" duration="12422000" />
+      <workItem from="1550073273562" duration="886000" />
+      <workItem from="1550104494425" duration="12148000" />
+      <workItem from="1550153482304" duration="1659000" />
+      <workItem from="1550191743601" duration="7023000" />
+      <workItem from="1550243816774" duration="699000" />
+      <workItem from="1550275397012" duration="12231000" />
+      <workItem from="1550373612844" duration="29359000" />
+      <workItem from="1550448942885" duration="23367000" />
+      <workItem from="1550502840679" duration="6169000" />
+      <workItem from="1550537143286" duration="16929000" />
+      <workItem from="1550591219212" duration="922000" />
+      <workItem from="1550622439460" duration="13839000" />
+      <workItem from="1550725466160" duration="1161000" />
+      <workItem from="1550797324744" duration="21771000" />
+      <workItem from="1550836850768" duration="434000" />
+      <workItem from="1550849124741" duration="3698000" />
+      <workItem from="1550881182649" duration="1209000" />
+      <workItem from="1550886307714" duration="2330000" />
+      <workItem from="1550888695020" duration="1395000" />
+      <workItem from="1550890141906" duration="728000" />
+      <workItem from="1550891094056" duration="90000" />
+      <workItem from="1550891195717" duration="8441000" />
+      <workItem from="1550989721924" duration="4223000" />
+      <workItem from="1551053442948" duration="2111000" />
+      <workItem from="1551060707822" duration="5818000" />
+      <workItem from="1551073204407" duration="9031000" />
+      <workItem from="1551147142871" duration="1718000" />
+      <workItem from="1551149412255" duration="155000" />
+      <workItem from="1551150080293" duration="5000" />
+      <workItem from="1551150406354" duration="512000" />
+    </task>
+    <task id="LOCAL-00001" summary="xin-qian-duan项目的后台服务">
+      <created>1551147737811</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551147737811</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="433005000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.42435703" side_tool="true" visible="true" weight="0.5040917" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.41225415" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6331316" weight="0.44771242" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" weight="0.32843137" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.71331316" weight="0.38398692" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.65696466" visible="true" weight="0.2647504" />
+      <window_info anchor="right" id="Bean Validation" order="7" weight="0.32980332" />
+      <window_info id="Web" order="2" sideWeight="0.34303534" side_tool="true" weight="0.27155825" />
+      <window_info anchor="right" id="SciView" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.57564294" weight="0.22712418" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.71331316" weight="0.4722222" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.36611196" side_tool="true" weight="0.22058824" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.4738562" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.20499243" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.65696466" visible="true" weight="0.27760968" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="7" sideWeight="0.34303534" side_tool="true" weight="0.27155825" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.63388807" visible="true" weight="0.12254902" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32980332" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="xin-qian-duan项目的后台服务" />
+    <option name="LAST_COMMIT_MESSAGE" value="xin-qian-duan项目的后台服务" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../WoAiBianMaWeb/src/main/java/com/zbf/web/RoleController.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../WoAiBianMaWeb/src/main/java/com/zbf/web/UserController.java</url>
+          <line>162</line>
+          <properties />
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../WoAiBianMaWeb/src/main/java/com/zbf/web/UserController.java</url>
+          <line>124</line>
+          <properties />
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../WoAiBianMaWeb/src/main/java/com/zbf/web/TestController.java</url>
+          <line>248</line>
+          <properties />
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../WoAiBianMaWebConfig/src/main/java/com/zbf/webconfig/KaoShiDaAnTiJiaoMessageSenderConfirm.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../WoAiBianMaWebConfig/src/main/java/com/zbf/webSocket/WebSocketServer.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="183" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../WoAiBianMaMapper/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Maven/repository-idea-test/lib/org/springframework/spring-web/5.0.8.RELEASE/spring-web-5.0.8.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="127" selection-start-line="127" selection-end-line="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Maven/repository-idea-test/lib/org/springframework/amqp/spring-rabbit/2.0.5.RELEASE/spring-rabbit-2.0.5.RELEASE.jar!/org/springframework/amqp/rabbit/connection/PublisherCallbackChannelConnectionFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Maven/repository-idea-test/lib/org/springframework/spring-beans/5.0.8.RELEASE/spring-beans-5.0.8.RELEASE.jar!/org/springframework/beans/factory/InitializingBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/EventListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Maven/repository-idea-test/lib/com/rabbitmq/amqp-client/5.1.2/amqp-client-5.1.2-sources.jar!/com/rabbitmq/client/ShutdownListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="32" column="49" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Maven/repository-idea-test/lib/org/springframework/amqp/spring-rabbit/2.0.5.RELEASE/spring-rabbit-2.0.5.RELEASE.jar!/org/springframework/amqp/rabbit/connection/CachingConnectionFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="55" column="59" selection-start-line="55" selection-start-column="59" selection-end-line="55" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WoAiBianMaWebConfig/src/main/java/com/zbf/webconfig/KaoShiDaAnTiJiaoMessageReturn.java" />
+    <entry file="file://$PROJECT_DIR$/../WoAiBianMaWebConfig/src/main/java/com/zbf/webconfig/KaoShiDaAnTiJiaoMessageSenderConfirm.java" />
+    <entry file="file://$PROJECT_DIR$/../WoAiBianMaWebConfig/src/main/java/com/zbf/webconfig/KaoShiDaAnTiJiaoMessageConsumerConfirm.java" />
+    <entry file="file://$PROJECT_DIR$/../WoAiBianMaWebConfig/src/main/java/com/zbf/webconfig/RabbitMQConfig.java" />
+    <entry file="jar://$PROJECT_DIR$/../../Maven/repository-idea-test/lib/com/rabbitmq/amqp-client/5.1.2/amqp-client-5.1.2-sources.jar!/com/rabbitmq/client/Channel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="756" column="9" selection-start-line="756" selection-start-column="9" selection-end-line="756" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WoAiBianMaWebConfig/src/main/java/com/zbf/rabbitmq/KaoShiDaAnTiJiaoMessageConsumerConfirm.java" />
+    <entry file="jar://$PROJECT_DIR$/../../Maven/repository-idea-test/lib/org/springframework/amqp/spring-rabbit/2.0.5.RELEASE/spring-rabbit-2.0.5.RELEASE.jar!/org/springframework/amqp/rabbit/core/RabbitTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="488" column="82" lean-forward="true" selection-start-line="488" selection-start-column="82" selection-end-line="488" selection-end-column="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WoAiBianMaWeb/src/main/java/com/zbf/web/RabbitMQController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="23" column="117" selection-start-line="23" selection-start-column="117" selection-end-line="23" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WoAiBianMaWebConfig/src/main/java/com/zbf/rabbitmq/KaoShiDaAnTiJiaoMessageReturn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WoAiBianMaWebConfig/src/main/java/com/zbf/rabbitmq/RabbitMQConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WoAiBianMaWebConfig/src/main/java/com/zbf/rabbitmq/KaoShiMessageSenderConfirm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WoAiBianMaWebConfig/src/main/java/com/zbf/rabbitmq/KaoShiMessageListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/com/sun/corba/se/pept/transport/OutboundConnectionCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="35" column="68" lean-forward="true" selection-start-line="35" selection-start-column="68" selection-end-line="35" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WoAiBianMaWebConfig/src/main/java/com/zbf/webSocket/WebSocketServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="22" column="39" lean-forward="true" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WoAiBianMaWebConfig/src/main/java/com/zbf/webSocket/WebSocketConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="16" column="61" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WoAiBianMaWebConfig/src/main/java/com/zbf/rabbitmq/KaoShiMessageListener2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WoAiBianMaWebSocket/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/../WoAiBianMaWebSocket/src/main/java/com/zbf/websocket/WebSocketServer.java" />
+    <entry file="file://$PROJECT_DIR$/../WoAiBianMaWebSocket/WoAiBianMaWebSocket.iml" />
+    <entry file="file://$PROJECT_DIR$/../WoAiBianMaWebSocket/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/../WoAiBianMaWeb/src/main/java/com/zbf/zhongjian/rabbitmq/RabbitMQConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Maven/repository-idea-test/lib/org/eclipse/jetty/websocket/websocket-common/9.4.11.v20180605/websocket-common-9.4.11.v20180605.jar!/org/eclipse/jetty/websocket/common/events/annotated/CallableMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WoAiBianMaMapper/src/main/java/com/zbf/mapper/TiKuMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WoAiBianMaWeb/src/main/java/com/zbf/web/MenuController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2275">
+          <caret line="106" selection-start-line="106" selection-end-line="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WoAiBianMaPoJo/src/main/java/com/zbf/enmu/MyRedisKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WoAiBianMaWeb/src/main/java/com/zbf/web/TiKuGuanLiController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4775">
+          <caret line="191" column="33" selection-start-line="191" selection-start-column="21" selection-end-line="191" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WoAiBianMaWeb/src/main/java/com/zbf/web/KaoShiGuanLiController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Maven/repository-idea-test/lib/org/springframework/amqp/spring-rabbit/2.0.5.RELEASE/spring-rabbit-2.0.5.RELEASE.jar!/org/springframework/amqp/rabbit/connection/AbstractConnectionFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6725">
+          <caret line="344" selection-start-line="344" selection-end-line="344" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WoAiBianMaWeb/src/main/java/com/zbf/WoAiBianMaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="10" column="13" selection-start-line="10" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WoAiBianMaWeb/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/AutoCloseable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="50" column="30" lean-forward="true" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/Closeable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="36" column="42" selection-start-line="36" selection-start-column="42" selection-end-line="36" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Maven/repository-idea-test/lib/javax/websocket/javax.websocket-api/1.0/javax.websocket-api-1.0.jar!/javax/websocket/Session.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WoAiBianMaWeb/src/main/java/com/zbf/zhongjian/test2/WebSocketConfig.java" />
+    <entry file="jar://$PROJECT_DIR$/../../Maven/repository-idea-test/lib/org/springframework/boot/spring-boot/2.0.4.RELEASE/spring-boot-2.0.4.RELEASE.jar!/org/springframework/boot/context/logging/LoggingApplicationListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="52" column="66" lean-forward="true" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WoAiBianMaWeb/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WoAiBianMaWeb/src/main/java/com/zbf/utils/SpringUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Maven/repository-idea-test/lib/org/springframework/data/spring-data-redis/2.0.9.RELEASE/spring-data-redis-2.0.9.RELEASE.jar!/org/springframework/data/redis/core/RedisTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="747" column="32" selection-start-line="747" selection-start-column="32" selection-end-line="747" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WoAiBianMaWeb/src/main/java/com/zbf/zhongjian/test2/WebSocketServerTest.java" />
+    <entry file="file://$PROJECT_DIR$/../WoAiBianMaWeb/src/main/java/com/zbf/web/RoleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WoAiBianMaWeb/src/main/java/com/zbf/zhongjian/webSocket/WebSocketConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WoAiBianMaWeb/src/main/java/com/zbf/web/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8900">
+          <caret line="356" column="29" selection-start-line="356" selection-start-column="29" selection-end-line="356" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="19" column="47" lean-forward="true" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WoAiBianMaWeb/src/main/java/com/zbf/zhongjian/webSocket/WebSocketServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>WoAiBianMaWebSocket:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>WoAiBianMaService</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27901787" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27901787" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
