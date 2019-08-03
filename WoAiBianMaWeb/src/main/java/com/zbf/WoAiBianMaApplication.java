@@ -10,7 +10,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  */
 @SpringBootApplication
 public class WoAiBianMaApplication {
-
+    //测试GitHub提交
     public static void main(String[] args) {
         SpringApplication.run ( WoAiBianMaApplication.class );
     }
