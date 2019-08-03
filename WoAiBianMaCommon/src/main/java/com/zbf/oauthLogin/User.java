@@ -10,7 +10,7 @@ import org.springframework.data.redis.core.RedisTemplate;
  * 描述：
  */
 @Data
-public class User extends IdEntity {
+public class User extends IdEntity {    //用户信息类
 
     private String username;
 
